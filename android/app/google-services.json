@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266786425346",
+    "project_id": "class-leap",
+    "storage_bucket": "class-leap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266786425346:android:1ce9eaf10928dc66cef51b",
+        "android_client_info": {
+          "package_name": "com.android.class_leap_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-bRBhowtJITnSR8n9w2oe6PGUixKgpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
